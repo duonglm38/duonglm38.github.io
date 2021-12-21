@@ -16,7 +16,3 @@ I am an AI Research Engineer at <a href="https://www.vinai.io/">VinAI Research, 
 My research interest lies in the intersection of Natural Language Processing and Machine Learning. Recently, I have focused on the following research problems:
 * Building robust Question Answering model
 * Controllable text generation
-
-<div style="display:none>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UbKGHbC81v8PmJs1UTEY7aKKYWNjUH5IxRjOixg3Bxo&cl=ffffff&w=a"></script>
-</div>

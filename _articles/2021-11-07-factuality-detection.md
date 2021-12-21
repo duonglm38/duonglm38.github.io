@@ -2,7 +2,7 @@
 title: "Does It Happen? Multi-hop Path Structures for Event Factuality Prediction with Graph Transformer Networks"
 category: articles
 permalink: "/articles/2021-11-factuality-detection"
-venue: "Workshop on Noisy User-generated Text (W-NUT) 2021"
+venue: "Workshop on Noisy User-generated Text (W-NUT) 2021 (Best paper runner-up)"
 date: 2021-11-07
 link: https://aclanthology.org/2021.wnut-1.6.pdf
 ---

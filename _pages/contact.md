@@ -5,4 +5,4 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-* E-mail: minhduong38 [at] gmail.com
+* E-mail: dminh6 [at] gatech.edu

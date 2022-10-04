@@ -80,14 +80,14 @@ analytics:
 # Site Author
 author:
   name             : "Duong Minh Le"
-  avatar           : "eli2.png"
+  avatar           : "portrait.jpg"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "AI Research Engineer at <a style='color: black;' href='https://www.vinai.io'> VinAI Research, Vietnam</a>"
-  location         : "Hanoi, VN"
+  bio              : "Ph.D. student in CS at Georgia Tech"
+  location         : "CODA Tech Square, Atlanta, GA, 30308 U.S.A"
   employer         : 
   googlescholar    :
-  email            : "minhduong38@gmail.com"
+  email            : "dminh6@gatech.edu"
   uri              : 
   bitbucket        :
   codepen          :

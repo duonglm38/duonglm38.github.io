@@ -228,6 +228,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _selectedarticles
+  - scope:
+      path: ""
+      type: selectedarticles
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _expressions
   - scope:
       path: ""

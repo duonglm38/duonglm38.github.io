@@ -16,6 +16,6 @@ I am a first year Ph.D. student in Computer Science at <a href="https://www.gate
 My research interest lies in the intersection of Natural Language Processing and Machine Learning. Recently, I have focused on the following topics: text-editing model and conversational question answering.
 
 ## Selected papers
-{% for post in site.articles reversed %}
+{% for post in site.selectedarticles reversed %}
   {% include archive-single.html %}
 {% endfor %}

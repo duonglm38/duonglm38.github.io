@@ -181,6 +181,9 @@ collections:
   articles:
     output: true
     permalink: /:collection/:path/
+  selectedarticles:
+    output: true
+    permalink: /:collection/:path/
   expressions:
     output: true
     permalink: /:collection/:path/
